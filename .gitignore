@@ -1,0 +1,6 @@
+__pycache__/
+*.ckpt
+*.out
+*.tar.gz
+dataset/
+results/
